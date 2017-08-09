@@ -10,5 +10,5 @@ npm start
 
 
 ## Screenshots
-![interface](screenshot/1.png)
+![interface](screenshot/interface.png)
 ![DIY](screenshot/DIY卡牌.png)

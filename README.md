@@ -1,5 +1,3 @@
-vue + vuex 开发的炉石卡牌 DIY 工具。
-
 ## Usage
 ```bash
 npm install
